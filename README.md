@@ -25,8 +25,8 @@ melhorias para o modpack e o servidor.
 ## Antes de abrir
 
 - Procure nas [issues existentes](https://github.com/IunaMC/issues/issues?q=is%3Aissue) se alguém já reportou a mesma coisa.
-- Confira o [changelog do modpack](https://github.com/IunaMC/modpack-cliente/blob/main/MUDANCAS.md): pode ser que já tenha sido resolvido.
-- Use sempre a [última versão do modpack](https://github.com/IunaMC/modpack-cliente/releases/latest).
+- Confira o [changelog do modpack](https://github.com/IunaMC/modpack/blob/main/MUDANCAS.md): pode ser que já tenha sido resolvido.
+- Use sempre a [última versão do modpack](https://github.com/IunaMC/modpack/releases/latest).
 - Se o jogo fechou, anexe o crash report (`crash-reports/`) ou o `logs/latest.log`.
 
 ## Labels
